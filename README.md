@@ -12,3 +12,4 @@
 8. ACF [register fields](https://www.advancedcustomfields.com/resources/register-fields-via-php/) via php
 9. Font [loading technique](https://www.filamentgroup.com/lab/font-events.html) to start using
 10. Aria modal [popup](http://www.humaan.com/modaal/)
+11. Responsive images sample [code](https://dev.opera.com/articles/responsive-images/)
