@@ -13,3 +13,4 @@
 9. Font [loading technique](https://www.filamentgroup.com/lab/font-events.html) to start using
 10. Aria modal [popup](http://www.humaan.com/modaal/)
 11. Responsive images sample [code](https://dev.opera.com/articles/responsive-images/)
+12. Free [ebooks](https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.sc9cwmrr9) on front-end developmt
