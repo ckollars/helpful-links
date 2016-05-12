@@ -16,3 +16,4 @@
 12. Free [ebooks](https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.sc9cwmrr9) on front-end developmt
 13. Full [text search](https://github.com/olivernn/lunr.js) on loaded dom
 14. Ultimate [guide](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/) to psuedo elements
+15. SVG Presentation with some awesome [examples](http://nbremer.github.io/openvis2016/slides/#/before-starting)
